@@ -24,8 +24,8 @@ int main(void)
 	}
 	if (y < 6 && y != 0)
 	{
-		printf(" and is is less than 6 and not 0")
+		printf(" and is is less than 6 and not 0");
 	}
-	printf("\n"
+	printf("\n");
 	return (0);
 }
